@@ -11,5 +11,5 @@ The main goal of this repository is to document my evolution in technology, keep
 The repository is divided into two major areas, separated by education level:
 
 ```text
-├── 🏫 Technical-Course-SENAC/    # Activities and projects developed at SENAC
+├── 🏫 SENAC Technical/    # Activities and projects developed at SENAC
 └── 🎓 University/                # Courses, labs, and projects from my degree
