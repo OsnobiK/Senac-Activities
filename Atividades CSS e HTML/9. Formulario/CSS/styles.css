@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Manrope:wght@200..800&display=swap');
+
+
+body{
+    padding-bottom: 500px;
+    color: white;
+    font-family: 'Bungee Spice', Courier, monospace;
+    background-color: black;
+    
+}
+
+div{
+    margin-bottom: 15px;
+}
+
+div input, div label{
+    display: block;
+}
+ #vid1{       
+        width: 100%; 
+        height: 100%; 
+        
+        object-fit: cover;
+        position: absolute; 
+        z-index: -1;
+        position: fixed;
+        
+ }
+ .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+ }
+
+ .caixona{
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    padding: 20px;
+    margin: solid 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    color: white;
+ }
+ 
+ 
+
+
+
+    
+
+
+ 

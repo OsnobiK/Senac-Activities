@@ -1,0 +1,34 @@
+/* Media query */
+
+h1{
+    color: orangered;
+}
+
+@media screen and (max-width: 500px) {
+    h1{
+        color: greenyellow;
+    }
+}
+
+
+/* Min-width */
+@media screen and (min-width: 800px) {
+    p{
+        background-color: black;
+        color: yellow;
+    }
+}
+
+
+
+
+/*Landscape Ocultado*/
+h2{
+    display: none;
+}
+
+@media screen and (orientation: landscape){
+    h2{
+        display: block;
+    }
+}

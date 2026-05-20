@@ -1,0 +1,147 @@
+body{
+    padding-bottom: 550px;
+
+}
+
+/* flexbox */
+.flexbox{
+display: flex;
+background-color: blue;
+color: white;
+margin-bottom: 30px;
+}
+
+
+
+/* Flex Direction */
+.flex-direction{
+    display: flex;
+    flex-direction: column;
+    background-color: #bbb;
+}
+
+/*Flex Wrap*/
+.flex-wrap{
+    display: flex;
+    margin-bottom: 30px;
+    flex-wrap: wrap;
+}
+
+.caixa{
+    height: 50px;
+    width: 33%;
+    border: 2px solid salmon
+}
+
+
+.center, .space-around, .space-between, .end{
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.center .caixa, .space-around .caixa, .space-between .caixa, .end .caixa{
+    width: 60px;
+}
+
+.center{
+    justify-content: center;
+   
+}
+.space-around{
+    justify-content: space-around;
+}
+.space-between{
+    justify-content: space-between;
+}
+.end{
+    justify-content: end;
+}
+
+ /* Flex Align Items */
+ 
+ 
+.align-center, .flex-end, .stretch{
+ 
+    display: flex;
+    height: 200px;
+    margin-bottom: 30px;
+    border: 3px solid black;
+}
+ 
+.align-center .caixa, .flex-end .caixa, .stretch .caixa{
+    width: 60px;
+}
+ 
+ 
+.align-center{
+    align-items: center;
+    justify-content: center;
+}
+ 
+ 
+.flex-end{
+align-items: flex-end;
+}
+ 
+.stretch{
+    align-items: stretch;
+}
+ 
+ 
+.stretch .caixa{
+    height: auto;
+}
+
+/*Gap*/
+
+.gap{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: 1px solid blue;
+    gap: 8px;
+}
+ 
+.gap .caixa{
+    width: 32%;
+}
+
+
+.order{
+    display: flex;
+}
+#a{
+order: 1;
+}
+#b{
+    order: 3;
+
+}
+#c{
+order: 2;
+}
+
+/* Grow */
+.grow{
+    display: flex;
+}
+
+.grow .caixa{
+    flex: 1;
+}
+
+.grow .maior{
+flex: 2;
+}
+
+/* Flex-basis */
+
+.flex-basis{
+    display: flex;
+}
+.flex-basis .caixa{
+    flex-basis: 50px;
+}
+.flex-basis .maior{
+    flex-grow: 1;
+}

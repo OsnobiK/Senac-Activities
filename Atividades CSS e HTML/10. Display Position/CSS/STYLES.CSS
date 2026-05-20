@@ -1,0 +1,137 @@
+/* Display: Bloco Embutido */
+ 
+.inline-block{
+    width: 500px;
+    height: 500px;
+    background-color: #754;
+    color: white;
+    font-size: xx-large;
+    margin: 15px;
+    display:inline-block;
+}
+ 
+/* Display: Bloco de Exibição */
+ 
+.block{
+    background-color: darkmagenta;
+    font-size: xx-large;
+    color: white;
+    margin: 10px;
+    display: block;
+}
+ 
+/* Escondendo: None */
+ 
+.escondendo{
+    display: none;
+}
+ 
+/* Posição Estática - Ele segue o fluxo do HTMl, static não é afetados por top, left, right ou bottom */
+ 
+.static{
+    position: static;
+    background-color: #848;
+    color: #fff;
+    width: 100px;
+    height: 100px;
+}
+ 
+ 
+ 
+/*  Posição relative */
+ 
+.relative{
+    position: relative;
+    background-color: #333;
+    width: 100px;
+    height: 100px;
+    color: #fff;
+    top: 50px;
+    left: 50px;
+}
+ 
+/* Posição Absolute */
+ 
+.absolute{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: #785;
+    color: white;
+    top: 2px;
+    right: 2px;
+}
+ 
+ 
+/* Posição relative e absolute */
+ 
+.bloco-relativo{
+    width: 250px;
+    height: 250px;
+    border: 2px solid darkblue;
+    margin-top: 100px;
+    position: relative;
+}
+ 
+.bloco-absoluto-1, .bloco-absoluto-2{
+    width: 70px;
+    height: 70px;
+    background-color: brown;
+    position: absolute;
+}
+ 
+/*  Erro.. pois ambas divs saem do bloco maior, que é o bloco relativo...  para arrumar,tire o absolute do bloco rlativo, e coloque positon relative. */
+ 
+.bloco-absoluto-1{
+    top: 2px;
+    left: 2px;
+}
+ 
+.bloco-absoluto-2{
+    bottom: 10px;
+    right: 10px;
+}
+ 
+ 
+/* Posição Sticky */
+ 
+.sticky{
+    width: 150px;
+    height: 150px;
+    background-color: firebrick;
+    color: aliceblue;
+    position: sticky;
+    border: 2px solid black;
+    top: 10px;
+}
+/*Z-Index - aqui já estou aproveitando o Style anterior do Bloco Relativo da Posição Relativa com Absoluta*/
+
+.bloco-absoluto-3, .bloco-absoluto-4, .bloco-absoluto-5{
+    width: 60px;
+    height: 60px;
+    border: 2px solid darkblue;
+    position: absolute;
+
+
+
+}
+
+.bloco-absoluto-3{
+    top: 0;
+    left: 0;
+    z-index: 3;
+}
+
+.bloco-absoluto-4{
+    top: 15px;
+    left: 15px;
+    background-color: darkgrey;
+    z-index: 2;
+}
+
+.bloco-absoluto-5{
+    top: 30px;
+    left: 30px;
+    background-color: cyan;
+    z-index: 1;
+}
