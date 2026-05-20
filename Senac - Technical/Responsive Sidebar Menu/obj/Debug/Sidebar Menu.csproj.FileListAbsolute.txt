@@ -1,0 +1,10 @@
+C:\Users\calebi.scosta\source\repos\Sidebar Menu\bin\Debug\Sidebar Menu.exe.config
+C:\Users\calebi.scosta\source\repos\Sidebar Menu\bin\Debug\Sidebar Menu.exe
+C:\Users\calebi.scosta\source\repos\Sidebar Menu\bin\Debug\Sidebar Menu.pdb
+C:\Users\calebi.scosta\source\repos\Sidebar Menu\obj\Debug\Sidebar Menu.csproj.AssemblyReference.cache
+C:\Users\calebi.scosta\source\repos\Sidebar Menu\obj\Debug\Sidebar_Menu.Form1.resources
+C:\Users\calebi.scosta\source\repos\Sidebar Menu\obj\Debug\Sidebar_Menu.Properties.Resources.resources
+C:\Users\calebi.scosta\source\repos\Sidebar Menu\obj\Debug\Sidebar Menu.csproj.GenerateResource.cache
+C:\Users\calebi.scosta\source\repos\Sidebar Menu\obj\Debug\Sidebar Menu.csproj.CoreCompileInputs.cache
+C:\Users\calebi.scosta\source\repos\Sidebar Menu\obj\Debug\Sidebar Menu.exe
+C:\Users\calebi.scosta\source\repos\Sidebar Menu\obj\Debug\Sidebar Menu.pdb

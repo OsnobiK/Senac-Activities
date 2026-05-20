@@ -1,0 +1,42 @@
+Neste Repositorio, fizemos varias atividades diferentes em PHP separadas por grupos que chamamos de Maratonas, dentro das Maratonas temos as seguintes atividades:
+
+   Maratona 1:
+1. Saudação com Calculadora
+2. Conversão de Temperatura
+3. Impressão de Dados do Usuario
+4. Emprestimo Bancario
+5. Conversor de Moedas
+6. Calculadora de desconto
+
+   Maratona 2:
+1. Numero Positivo e Negativo
+2. Classificação de Nota
+3. Sistema de voto Obrigatorio
+4. Numero Par ou Impar
+5. Sistema de Cinema
+6. Determinando Dias da Semana
+7. Sistema de Notas
+8. Calculando preço com codigo de desconto
+9. Nomes de Amigos
+10. Removendo Amigos
+11. Contagem de Array
+12. Combinando Arrays
+
+    Maratona 3:
+1. Sistema de autentificação de funcionarios
+2. Calculo de imposto com desconto
+3. Calculo de preço com taxa de entrega
+   
+    Maratona 4:
+1. Foreach
+2. Funções
+3. Laço For
+
+Maratona 5:
+1. Classe Carro
+2. Classe Livro
+3. Contrutores e Destruidores
+4. Matrizes
+5. Modificadores de Acesso
+
+

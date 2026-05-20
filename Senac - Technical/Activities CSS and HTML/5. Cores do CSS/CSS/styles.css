@@ -1,0 +1,73 @@
+/* Nomes das Cores */
+
+.color-name{
+    color:rgb(220, 20, 60);
+}
+
+/* Cores rgb */
+.rgb{
+    color: rgb(199, 21, 47);
+}
+.rgb-misturado{
+    color: rgb(57,89,255);
+}
+
+/* Cores rgba */
+.rgba{
+    color: rgba(38,20,255,0.3);
+}
+/* Cores hexadecimais */
+.hex{
+    color : #55a398;
+}
+.hex2{
+    color: #10a288;
+}
+
+/* Hexadecimal Simplificado */
+.hex-simplificado{
+    color: #333;
+
+}
+.hex-simplificado2{
+    color: #3af;
+
+
+}
+
+/* Cores HSL */
+.hsl{
+    color: hsl(100, 20%, 50%);
+}
+.hsl-2{
+    color:hsl(255,100%, 50%);
+}
+
+/* Background color */
+.bg-1{
+    background-color: #000;
+    color: gold;
+}
+
+.bg-2{
+    background-color: rgb(225, 0, 255);
+    color: #0fa;
+}
+
+/* Opacidade Background color */
+.bg-opacity{
+    background-color: #888;
+    color: black;
+    opacity: 0.2;
+}
+.bg-opacity2{
+    background-color: #888;
+    color: black;
+    opacity: 0.8;
+}
+
+/* Opacidade Texto */
+.rgba-opacidade{
+    background-color: rgba(90, 100, 40, 0.2);
+    color: #000;
+}

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\calebi.scosta\\source\\repos\\Sidebar Menu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{954AAC6F-8D88-4BB8-B164-A1D0BF5152E2}|Sidebar Menu.csproj|c:\\users\\calebi.scosta\\source\\repos\\sidebar menu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954AAC6F-8D88-4BB8-B164-A1D0BF5152E2}|Sidebar Menu.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954AAC6F-8D88-4BB8-B164-A1D0BF5152E2}|Sidebar Menu.csproj|c:\\users\\calebi.scosta\\source\\repos\\sidebar menu\\gradient_sidebarpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954AAC6F-8D88-4BB8-B164-A1D0BF5152E2}|Sidebar Menu.csproj|solutionrelative:gradient_sidebarpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954AAC6F-8D88-4BB8-B164-A1D0BF5152E2}|Sidebar Menu.csproj|c:\\users\\calebi.scosta\\source\\repos\\sidebar menu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{954AAC6F-8D88-4BB8-B164-A1D0BF5152E2}|Sidebar Menu.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\calebi.scosta\\source\\repos\\Sidebar Menu\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\calebi.scosta\\source\\repos\\Sidebar Menu\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwB8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:32:17.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gradient_SidebarPanel.cs",
+              "DocumentMoniker": "C:\\Users\\calebi.scosta\\source\\repos\\Sidebar Menu\\Gradient_SidebarPanel.cs",
+              "RelativeDocumentMoniker": "Gradient_SidebarPanel.cs",
+              "ToolTip": "C:\\Users\\calebi.scosta\\source\\repos\\Sidebar Menu\\Gradient_SidebarPanel.cs",
+              "RelativeToolTip": "Gradient_SidebarPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:02:15.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\calebi.scosta\\source\\repos\\Sidebar Menu\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\calebi.scosta\\source\\repos\\Sidebar Menu\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T12:52:19.081Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

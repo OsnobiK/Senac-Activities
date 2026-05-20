@@ -1,0 +1,148 @@
+.altura-largura{
+    height: 500px;
+    width: 200px;
+    background-color: blueviolet;
+}
+.altura-largura-nova{
+    height: 200px;
+    background-color: rgb(72, 0, 71);
+}
+
+/* Padding */
+.sem-padding{
+    background-color: aqua;
+    padding: none;
+    width: 200px;
+    height: 200px;  
+}
+
+.com-padding{
+    background-color: blueviolet;
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+/* Padding por lados */
+.padding-lados{
+    background-color: crimson;
+    color: blue;
+    padding-left: 150px;
+    padding-right: 5px;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+
+/* Shorthand Properties */
+.shorthand-padding{
+    Background-color: #333;
+    padding: 6px 12px 18px 24px;
+    color:aliceblue;
+}
+
+.shorthand-padding-2{
+    background-color: #555;
+    padding: 10px 20px;
+    color: white;
+}
+
+
+
+
+/* Border */
+.border{
+    border: 5px solid blue;
+    padding: 10px;
+
+}
+
+.border-2{
+    border: 2px dotted #785;
+    padding: 5px;
+}
+
+/* Borda individual por lados*/
+.borda-esquerda{
+    border-left: 3px solid yellowgreen;
+    background-color: #111;
+    color: #fff;
+    padding: 25px;
+}
+
+.borda-inferior{ border-bottom: 7px double #548;
+background-color: #111;
+color: #fff;
+padding: 25px;
+}
+
+.borda-superior{
+    border-top: 10px dotted red;
+    background-color: aquamarine;
+    color: #888;
+    padding: 10px;
+}
+
+.borda-direita{
+    border-right: 5px dashed #f00;
+    background-color: #111;
+    color: #fff;
+    padding: 25px;
+}
+/* Borda diferente em todos os lados ao mesmo tempo */
+.borda-total{
+    border-left: 5px double rosybrown;
+    border-right: 5px solid yellow;
+    border-top: 5px dotted salmon;
+    border-bottom : 5px dashed orange;
+    background-color: #000;
+    color: #fff;
+    padding: 25px;
+
+}
+
+/* Borda Arredondada */
+.paragrafo-arredondado{
+border: 5px solid red;
+background-color: burlywood;
+color: white;
+padding: 20px;
+border-radius: 20px;
+}
+
+.paragrafo-arredondado-2{
+background-color: burlywood;
+color:#fff;
+padding:20px;
+border-radius: 20px;
+}
+
+/* Margem */
+.margem{
+    margin: 10px;
+    background-color: darkblue;
+    padding: 10px;
+    color: yellow;
+}
+
+.margem-no-topo{
+    margin-top: 7px;
+    background-color: dodgerblue;
+    padding: 10px;
+}
+
+.margin-diferenciada{
+    background-color: cornflowerblue;
+    margin: 7px 10px 9px 30px;
+}
+
+/* Box Model Juntos */
+.box-model{
+    background-color: aqua;
+    color: #000;
+    width: 200px;
+    height: 200px;
+    padding: 10px 10px 15px 25px;
+    border: 5px solid violet;
+    border-radius: 10px;
+    margin: auto;
+}
